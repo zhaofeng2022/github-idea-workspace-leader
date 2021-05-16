@@ -14,6 +14,8 @@ public class IOCTest {
         System.out.println("update 1" );
         System.out.println("update 2" );
         System.out.println("dev1 update1" );
+        System.out.println("dev1 update2" );
+        System.out.println("dev1 update3" );
         System.out.println("master update1" );
         System.out.println("master update2" );
     }
